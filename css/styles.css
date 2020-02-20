@@ -18,3 +18,13 @@
     font-weight: bold;
     font-size: 20px;
 }
+.services_section{
+    background-image: url("../image/backgrounds/s_image.jpg");
+    height: auto;
+    width: auto;
+    text-align: center;
+    color: white;
+    padding: 150px;
+    font-size: 20px;
+    font-weight: bold;
+}
