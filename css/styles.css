@@ -28,3 +28,16 @@
     font-size: 20px;
     font-weight: bold;
 }
+.what_we_do_section{
+    height: auto;
+    width: auto;
+    padding: 50px;
+    font-size: 20px;
+    text-align: center;
+}
+.what_we_do{
+    padding: 50px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
