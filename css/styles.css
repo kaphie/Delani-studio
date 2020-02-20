@@ -1,10 +1,14 @@
 .home_background{
-    height: 900px;
+    height: 1000px;
     width: auto;
     background-image: url("../image/backgrounds/h_img.jpg");
 }
 .home_background_text{
     color: white;
     text-align: center;
-    padding-top: 300px;
+    padding-top: 400px;
+}
+.mouse_click{
+    text-align: center;
+    padding-top: 50px;
 }
