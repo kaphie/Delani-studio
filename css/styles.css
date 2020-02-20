@@ -12,6 +12,9 @@
     text-align: center;
     padding-top: 50px;
 }
-.aboutus_section{
-    
+.aboutus_section_text{
+    text-align: center;
+    padding: 50px;
+    font-weight: bold;
+    font-size: 20px;
 }
