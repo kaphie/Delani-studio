@@ -1,5 +1,10 @@
 .home_background{
-    height: 800px;
+    height: 900px;
     width: auto;
     background-image: url("../image/backgrounds/h_img.jpg");
+}
+.home_background_text{
+    color: white;
+    text-align: center;
+    padding-top: 300px;
 }
