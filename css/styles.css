@@ -64,6 +64,11 @@
     color: white;
     padding: 50px;
 }
-.contact_us{
-    padding: ;
+.transparent{
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+}
+.form-control::-webkit-input-placeholder{
+    color: white;
+    font-weight: bold;
 }
