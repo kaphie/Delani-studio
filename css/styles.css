@@ -56,3 +56,14 @@
     height: 200px;
     width: auto;
 }
+.contact_us_section{
+    background-image: url("../image/backgrounds/c_image.jpg");
+    height: 500px;
+    width: auto;
+    text-align: center;
+    color: white;
+    padding: 50px;
+}
+.contact_us{
+    padding: ;
+}
