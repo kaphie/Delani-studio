@@ -52,27 +52,27 @@
     height: 200px;
     width: auto;
 }
-.port{
+.gallery{
     width: 25em;
     margin: 2em auto;
 }
-.port-item{
+.gallery-item{
     height: auto;
     width: 48.618784527%;
     float: left;
     margin-bottom: 2em;
     position: relative;
 }
-.port-item:first-child{
+.gallery-item:first-child{
     margin-right:2.762430939%;
 }
-.port-item-img{
+.gallery-item-img{
     width: 100%;
 }
-.port-item:hover .img-name{
+/* .port-item:hover .img-name{
     /*opacity:1;*/
-}
-.img-name{
+
+.img-title{
     position: absolute;
     top: 0;
     margin: 0;
@@ -81,9 +81,9 @@
     text-align: center;
     display: none;
     background-color: white;
-    font-weight: ;
+    font-weight: 20px;
 }
-.img-name h5{
+.img-title h5{
     position: absolute;
     color: black;
     top: 33%;
