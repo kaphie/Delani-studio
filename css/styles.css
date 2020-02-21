@@ -48,49 +48,45 @@
     width: auto;
 }
 .image_class{
-    margin: 10px;
     height: 200px;
     width: auto;
 }
-.gallery{
+.gallery {
     width: 25em;
     margin: 2em auto;
 }
-.gallery-item{
+
+.gallery-item {
     height: auto;
     width: 48.618784527%;
     float: left;
     margin-bottom: 2em;
     position: relative;
 }
-.gallery-item:first-child{
-    margin-right:2.762430939%;
-}
-.gallery-item-img{
-    width: 100%;
-}
-/* .port-item:hover .img-name{
-    /*opacity:1;*/
 
-.img-title{
+    .gallery-item:first-child {
+        margin-right: 2.762430939%;
+    }
+.img-title {
     position: absolute;
     top: 0;
     margin: 0;
     height: 100%;
     width: 100%;
     text-align: center;
-    display: none;
-    background-color: white;
-    font-weight: 20px;
+    opacity: 0.5;
+    display: none; /* comment this out for CSS hover */
+    background-color:white;
+    /*transition: all 0.5s ease;*/
 }
-.img-title h5{
-    position: absolute;
-    color: black;
-    top: 33%;
-    width: 100%;
-    text-align: center;
-    font-weight: 20px;
-}
+
+    .img-title h5 {
+        position: absolute;
+        color:black;
+        top: 33%;
+        width: 100%;
+        text-align: center;
+    }
 .portfolio{
     text-align: center;
     padding: 50px;

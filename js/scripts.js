@@ -11,9 +11,9 @@ $(document).ready(function(){
         $(".img33").toggle();
         $(".textclickable3").toggle();
     });
-    $('gallery-item').hover(function(){
+    $('.gallery-item').hover( function() {
         $(this).find('.img-title').fadeIn(300);
-    }, function(){
+    }, function() {
         $(this).find('.img-title').fadeOut(100);
     });
 });
