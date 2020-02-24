@@ -24,10 +24,11 @@ To get a local copy of the site:
 
 ## Technologies used.
 * HTML5
-* CSS3
+* CSS
 * Bootstrap
 * Javascript
 * JQuery
+* markdown
 
 ## BDD
 | Inputs |  Description |
