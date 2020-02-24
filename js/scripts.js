@@ -16,4 +16,12 @@ $(document).ready(function(){
     }, function() {
         $(this).find('.img-title').fadeOut(100);
     });
+
+    $("form").submit(function(){
+        var name = $("#formGroupExampleInput1").val();
+        var email = $("#formGroupExampleInput2").val();
+        var message = $("#exampleFormControlTextarea1").val();
+
+        alert(name+ '  we have received your message. Thank you fro reaching out to us.')
+    })
 });

@@ -101,11 +101,11 @@
 
 .contact_us_section{
     background-image: url("../image/backgrounds/c_image.jpg");
-    height: 700px;
+    height: 650px;
     width: auto;
     text-align: center;
     color: white;
-    padding: 100px;
+    padding: 50px;
     font-family: 'Share Tech';
 }
 .transparent{
@@ -129,4 +129,10 @@
 }
 .textclickable1,.textclickable2,.textclickable3{
     display: none;
+}
+.api{
+    padding: 10px;
+}
+.btn-secondary{
+   margin: 20px;
 }
