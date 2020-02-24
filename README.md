@@ -22,7 +22,7 @@ To get a local copy of the site:
 
 *Launch* `index.html` file.
 
-## Technologies used.
+## Technologies used
 * HTML5
 * CSS
 * Bootstrap
