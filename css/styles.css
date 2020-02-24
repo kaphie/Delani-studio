@@ -7,6 +7,7 @@
     color: white;
     text-align: center;
     margin-top: 400px;
+    font-family: 'Volkhov';
 }
 .mouse_click{
     text-align: center;
@@ -18,6 +19,7 @@
     padding: 50px;
     font-weight: bold;
     font-size: 20px;
+    font-family: 'Old Standard TT';
 }
 .services_section{
     background-image: url("../image/backgrounds/s_image.jpg");
@@ -28,6 +30,7 @@
     padding: 150px;
     font-size: 20px;
     font-weight: bold;
+    font-family: 'Old Standard TT';
 }
 .what_we_do_section{
     height: auto;
