@@ -23,5 +23,6 @@ $(document).ready(function(){
         var message = $("#exampleFormControlTextarea1").val();
 
         alert(name+ '  we have received your message. Thank you fro reaching out to us.')
+        $("form").trigger('reset');
     })
 });
