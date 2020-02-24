@@ -9,7 +9,7 @@ Delani Studio is a site built to practice concepts learnt including JQuery, boot
 >Kafrika Benitah
 
 ## Screenshot.
-<img src="https://github.com/kaphie/Delani-studio/blob/master/image/%20Delani%20Studio.jpg">
+<img src="./image/p.jpg">
 
 ## Setup.
 To get a local copy of the site:
